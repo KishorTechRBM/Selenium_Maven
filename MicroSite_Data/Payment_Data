@@ -1,0 +1,6 @@
+NameOnCard = TestR
+CardType //Click
+CreditCardNumber = 4112344112344113
+CardExpM = 04
+CardExpY = 2025
+Submit //Click

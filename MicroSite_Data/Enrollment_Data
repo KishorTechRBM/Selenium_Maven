@@ -1,0 +1,22 @@
+SelectProduct = DTC ACCIDENT AND SICKNESS
+SelectPartner = Mesmerize
+Submit //Click
+
+FirstName = Test
+LastName = User
+DOB = 18101995
+CoverageType //Click
+Address1 = Ludhiana
+City = Helena
+State = ALABAMA
+ZipCode = 35080
+PhoneNumber = 1234567890
+EmailAddress = test1@gmail.com
+ConfirmEmailAddress = test1@gmail.com
+Marketingopt //Click
+PaymentFrequency //Click
+SelectPlan //Click
+FulfillmentPreference //Click
+SelectPaymentMethod //Click
+TC //Click
+Next //Click
